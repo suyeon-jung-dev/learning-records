@@ -14,6 +14,10 @@
 - 노션 대신 워크플로우 구성 가능
 - 배포 파이프라인 구성 및 봇 사용 가능 
 
+[추가]
+- SMTP 설정
+  - https://www.bearpooh.com/116
+
 docker-compose.yaml
 ```yaml
 services:
